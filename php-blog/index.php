@@ -5,12 +5,13 @@
 </head>
 <body>
 <?php
-
 require_once('includes/header.php'); ?>
         <!-- container - wraps whole page -->
+
+
         <div class="container">
         <?php require_once('includes/banner.php'); ?>
-                <!-- Page content -->
+ 
                 <div class="content">
                         <h2 class="content-title">Recent Articles</h2>
                         <hr>
